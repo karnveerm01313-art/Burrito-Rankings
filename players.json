@@ -22,7 +22,7 @@
     "losses": 0,
     "height": "-'-\"",
     "weight": "--- lbs"
-  }
+  },
   {
     "name": "Rayyan",
     "tier": "Staple",
@@ -30,7 +30,7 @@
     "losses": 0,
     "height": "-'-\"",
     "weight": "--- lbs"
-  }
+  },
   {
     "name": "Suneel",
     "tier": "Staple",
@@ -38,7 +38,7 @@
     "losses": 0,
     "height": "-'-\"",
     "weight": "--- lbs"
-  }
+  },
   {
     "name": "Nivendra",
     "tier": "Staple",
@@ -46,7 +46,7 @@
     "losses": 0,
     "height": "-'-\"",
     "weight": "--- lbs"
-  }
+  },
   {
     "name": "Matthew",
     "tier": "Staple",
@@ -54,13 +54,13 @@
     "losses": 0,
     "height": "-'-\"",
     "weight": "--- lbs"
-  }
-{
+  },
+  {
     "name": "Sean",
     "tier": "Staple",
     "wins": 0,
     "losses": 0,
     "height": "-'-\"",
     "weight": "--- lbs"
-  }
+  },
 ]
